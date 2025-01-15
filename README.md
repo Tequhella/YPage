@@ -1,8 +1,8 @@
 # YPage
 
-# Server configuration
+## Server configuration
 
-## Install dependencies
+### Install dependencies
 ```bash
 python -m venv venv
 source venv/bin/activate
